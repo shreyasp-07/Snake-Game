@@ -29,7 +29,7 @@ You can play the game live by visiting the [demo link](https://your-demo-link-he
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/snake-game.git
+   git clone https://github.com/shreyasp-07/snake-game.git
    ```
 
 2. Navigate to the project directory:
